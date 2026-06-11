@@ -1,0 +1,14 @@
+[2026-06-10 12:11:49.743476] BOOT: Starting system initialization
+[2026-06-10 12:11:49.744069] BOOT: System healthy
+[2026-06-10 12:11:49.771699] UI: Main window started
+[2026-06-10 12:32:48.999404] BOOT: Starting system initialization
+[2026-06-10 12:32:48.999760] QDRANT: Connected (mock mode)
+[2026-06-10 12:32:49.000011] BOOT: Services initialized successfully
+[2026-06-10 13:43:25.120352] BOOT: Starting RAG system
+[2026-06-10 13:43:25.120728] BOOT: RAG system ready
+[2026-06-10 13:43:40.800895] INGEST: Starting doc_0
+[2026-06-10 13:43:40.802306] INGEST: Text too small
+[2026-06-11 14:11:01.187850] CASE CREATED: CASE_001
+[2026-06-11 14:11:01.188179] BOOT: Case system initialized
+[2026-06-11 14:11:01.315042] EMBEDDINGS: Service initialized
+[2026-06-11 14:11:01.315702] BOOT: RAG system ready
